@@ -30,8 +30,8 @@ app.get('/notes/uno', (request, response) => {
 app.post('/api/crear', (request, response) => {
 
     const message = {
-        content: 'julian',
-        date: 'sdasdss',
+        content: 'safada',
+        date: 'sdasd',
         important: false,
     };
 
