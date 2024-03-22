@@ -1,1 +1,4 @@
-GET  http://localhost:3000/api/buscar/
+
+ CREAR http://localhost:3000/api/eli
+
+#DELETE http://localhost:3000/api/eliminar?content=ZZzzsafada
